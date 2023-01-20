@@ -24,6 +24,8 @@ http://placehold.it
 https://kangax.github.io/html-minifier
 https://www.willpeavy.com/minifier
 https://github.com/vividvilla/csvtotable
+https://symbols.wentin.net/
+https://github.com/cadars/john-doe (pseudo single page site)
 
 ## Copy
 https://lipsum.com
@@ -37,8 +39,10 @@ https://bttn.surge.sh
 http://daneden.github.io/animate.css
 https://ianlunn.github.io/Hover
 https://cssgenerator.org
+https://csstracking.dev/
 http://leaverou.github.io/animatable
 http://animista.net
+https://xsgames.co/animatiss/
 https://h5bp.github.io/Effeckt.css
 https://www.minimamente.com/project/magic
 https://iraul.github.io/pushy-buttons
@@ -51,6 +55,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox
 https://github.com/postcss/autoprefixer
 https://autoprefixer.github.io
 http://sass-lang.com
+https://www.w3schools.com/w3css/
 
 ## Javascript
 https://github.com/ameesme/SlimScroller.js
@@ -66,11 +71,15 @@ http://hpneo.github.io/gmaps
 http://getbootstrap.com
 https://codepen.io/jipdev/full/ZEJOWjP
 https://mobbin.com/browse/web/apps
+https://uiverse.io/
 https://getmdl.io
+https://builder.lightningsites.com/
 https://bit.dev
 https://materializecss.com
 http://mdbootstrap.com/material-design-for-bootstrap
 http://metroui.org.ua
+https://ui-buttons.web.app/
+https://olivier3lanc.github.io/Scroll-Btween/
 https://goodui.org
 https://formstone.it
 
@@ -86,12 +95,15 @@ http://www.spritecow.com
 https://pattern.monster
 https://www.toptal.com/designers/subtlepatterns
 http://kenwheeler.github.io/slick
+https://animatize.com/
 https://www.vantajs.com
 https://fengyuanchen.github.io/viewerjs
 http://placehold.it
+https://fffuel.co/mmmotif/
 https://architextures.org/textures/category/wood
 http://flickity.metafizzy.co
 https://www.blobmaker.app
+https://meshgradient.in/
 http://scottjehl.github.io/picturefill
 https://getwaves.io
 https://uigradients.com/#Flickr
@@ -109,6 +121,7 @@ https://flaticons.net
 https://iconstore.co
 https://fancytexttool.net/symbols/arrow-symbols
 https://iconmonstr.com
+https://www.mingcute.com/
 
 ## Video
 https://videos.pexels.com
@@ -144,4 +157,6 @@ https://developer.android.com/distribute/console
 ## Other
 https://devhints.io
 http://caniuse.com
+https://allinone.tools/
 https://www.uptrends.com/tools/uptime
+https://it-tools.tech/
