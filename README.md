@@ -1,8 +1,8 @@
 # Dev Bookmarks
 
 ## Command-line Tools
-http://geoff.greer.fm/lscolors
-https://vitux.com/linux-tree-command
+http://geoff.greer.fm/lscolors\
+https://vitux.com/linux-tree-command\
 https://chmodcommand.com
 https://github.com/github/gitignore
 
