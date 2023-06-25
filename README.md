@@ -156,6 +156,7 @@ https://wphierarchy.com
 https://developer.android.com/distribute/console  
 
 ## Other
+https://codepen.io/joeroguen
 https://devhints.io  
 http://caniuse.com  
 https://allinone.tools/  
